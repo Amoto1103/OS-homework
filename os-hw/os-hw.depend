@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559896336 source:c:\users\hp\desktop\os-hw\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
